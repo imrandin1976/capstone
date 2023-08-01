@@ -1,7 +1,0 @@
-.DS_Store
-
-# Environment variables
-.env
-
-# Cached files
-**/__pycache__
